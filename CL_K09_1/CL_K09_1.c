@@ -1,6 +1,8 @@
 ﻿/*作成者:*/
 /*課題名:課題09_1*/
 //1回目
+//2回目
+
 
 #include<stdio.h>
 int fibonacci(int);
